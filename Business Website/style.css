@@ -1,0 +1,231 @@
+body {
+
+
+    line-height: 1.6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, background-color: #000000;
+    background-color: grey;
+    color: rgb(255, 255, 255);
+    margin: 0;
+    height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(36, 47, 64);
+    margin: 10px;
+
+
+
+}
+
+nav {
+    color: rgb(204, 164, 59);
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+
+
+
+div {
+    color: rgb(204, 164, 59);
+}
+
+
+
+
+h1 {
+    color: rgb(204, 164, 59);
+    font-size: 300%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+
+}
+
+p {
+    background-color: rgb(204, 164, 59);
+    margin: 130px;
+    padding: 10px;
+    text-align: center;
+    color: rgb(36, 47, 64);
+
+}
+
+div {
+    display: flex;
+    margin: 13px;
+    padding: 10px;
+    background-color: rgb(36, 47, 64)
+}
+
+
+
+
+h2 {
+    line-height: normal;
+    font-size: 300%;
+    padding: 10px;
+    color: #000000;
+    font-weight: 300%;
+}
+
+img {
+    size-adjust: 10px;
+    align-items: center;
+    margin-bottom: 0%;
+
+}
+
+h3 {
+    font-size: 30px;
+    color: #f3f3f3;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 10px;
+}
+
+b {
+    color: gold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+p {
+    font-size: 45px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+
+
+}
+
+.AlienBaby {
+
+    margin: 220px;
+    padding: 10px;
+    background-color: #e8e5be
+}
+
+h5 {
+    color: #000000;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 10px;
+}
+
+h6 {
+    color: #000000;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 80px;
+    padding: 100px;
+}
+
+
+.Spacesword {
+    margin: 20px;
+    padding: 10px;
+    background-color: #ffffff
+}
+
+
+
+h8 {
+    color: #000000;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+h7 {
+    color: #000000;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    padding: 10px;
+}
+
+h9 {
+    color: #000000;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding: 10px;
+}
+
+h10 {
+    color: #000000;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 10px;
+}
+
+
+footer {
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(36, 47, 64);
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(36, 47, 64);
+    padding: 100px;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+h11 {
+    color: rgb(204, 164, 59);
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+h12 {
+    color: rgb(204, 164, 59);
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+h13 {
+    color: rgb(204, 164, 59);
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+h14 {
+    color: rgb(204, 164, 59);
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+
+h15 {
+
+    align-items: center;
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    color: rgb(36, 47, 64);
+}
+
+
+.©DREWSTUDIOS {
+    background-color: rgb(204, 164, 59);
+}
+
+
+h16 {
+
+    font-size: 65px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 100px;
+
+}
